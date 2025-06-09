@@ -19,7 +19,7 @@ This project recreates the traditional Minesweeper gameplay, featuring a respons
 
 ## 📸 Screenshot
 
-_(Insert screenshot here)_
+![alt text](imageuu.png)
 
 > _Screenshot of the game in action showing flagged cells, timer, and mines remaining counter_
 
